@@ -1,18 +1,13 @@
-This repository began with a simple confusion — one that refused to leave my mind.
-
-The phrase “uniform electric field” appeared too casually in my studies, especially in the context of infinite charged sheets and parallel plate capacitors. The formulas were clear: the electric field does not depend on distance. But that immediately felt unsettling. In almost every other situation involving electric fields, distance plays a central role. So why does it suddenly stop mattering here?
+A uniform electric field is defined as one that has the same magnitude and direction at every point in a region of space. In introductory electrostatics, this idea appears most clearly in idealized systems such as an infinitely large charged sheet or two infinitely large, oppositely charged parallel plates. In these cases, the electric field turns out to be independent of distance from the source.
 
 At first, I accepted the standard explanation: the plates are infinitely large. But that felt like a statement rather than an understanding. It explained what happens, but not why it happens.
+However, on sitting with this idea for some time, this bothered me because in every other charge distribution I had studied, increasing distance weakens the field. I wanted to understand why the infinite sheet is an exception. On thinking about individual charge contributions, I realised that, as the distance from the sheet increases, the force due to each infinitesimal patch of charge decreases, but simultaneously, a larger area of the sheet contributes to the field. These two effects balance exactly because of the geometry and symmetry of the system.
 
-What truly triggered my curiosity was this:
-If I move farther away from a charged sheet, the distance increases — and increasing distance should weaken the field. Yet the electric field remains constant. That means something must be compensating for this weakening. That idea stayed with me.
+Extending this reasoning to two oppositely charged parallel plates made the idea clearer. At every point between the plates, the contributions from both plates adjust in such a way that the net force on a charge remains constant. This showed me that a uniform electric field is not an assumption or a special case, but a direct consequence of symmetry and infinite geometry.
 
-Thinking about it more carefully, I realised that as we move away from the sheet, although each small patch of charge contributes less to the electric field, the number of patches contributing effectively increases. The weakening of individual contributions and the growth in the number of contributors balance each other exactly. That was the first moment when the idea genuinely clicked.
-
-Once this made sense, the parallel plate capacitor became clearer as well. Even though the distances from the two plates change as one moves between them, the same balancing mechanism operates again. The constancy of the electric field is not accidental — it is enforced by geometry and symmetry.
-
-This naturally led me to think about real plates. They are not infinite. So what changes? That question led me to edge (fringe) fields — and eventually to the realisation that fringe fields are not an additional complication, but the physical consequence of broken symmetry. When the infinite symmetry disappears, the perfect cancellation disappears with it.
+This naturally led me to think about real plates, wjich led me to edge (fringe) fields — and eventually to the realisation that fringe fields are not an additional complication, but the physical consequence of broken symmetry. When the infinite symmetry disappears, the perfect cancellation disappears with it.
 
 At that point, I realised this topic was no longer just about a formula. It was about what uniform really means, why ideal models work so well, and how symmetry influences physical behaviour.
 
 This repository is my attempt to organise that understanding — not merely to state results, but to explain why those results make sense. I studied this idea because I wanted to truly feel the physics, not just apply it. Everything here comes from that curiosity.
+
