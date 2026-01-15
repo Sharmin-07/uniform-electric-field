@@ -22,7 +22,9 @@ Simultaneously, as the electron moves closer to the positively charged plate, ea
 
 What matters here is not the electron’s position, but the symmetry of the charge distribution. The uniform electric field is not a consequence of placing the electron in a special region; it arises because the symmetry and geometry of two infinite plates ensure the balance of contributions everywhere between them.
 Understanding this ideal case is more than a mathematical exercise. It reveals how geometry and symmetry control the behaviour of electric fields. It explains why uniform fields exist, why real systems can be treated as nearly uniform, and where the idealization begins to fail. Ultimately, a uniform electric field is not just a diagram or a formula; it is a demonstration of how perfect symmetry naturally produces uniformity.
+
 Of course, real plates are finite, so perfect symmetry is broken at the edges. Near the boundaries, field lines no longer remain straight and parallel; they bend outward, and the field strength begins to decrease. These deviations are known as fringe effects. However, when the separation between the plates is very small compared to their lateral dimensions, there exists a large central region where the influence of the edges is negligible. In this central region, the symmetry is almost perfectly preserved, and the electric field is nearly uniform.
+
 Notice that this uniformity is strongest at the exact middle between the plates. As one moves closer to either edge, the balance of contributions from the charge distribution begins to break down. The absence of symmetry near the boundaries causes the field lines to spread out, increasing non-uniformity. In this way, the infinite-plate model does not deny the existence of edge effects; instead, it tells us where the approximation holds and why it works so well in practical setups.
 
 
@@ -33,4 +35,5 @@ The electric field of an infinite charged sheet is independent of distance becau
 For two infinitely large, oppositely charged parallel plates, the same symmetry applies, which leads to a uniform electric field and constant acceleration of a charge placed between the plates.
 
 Uniform electric fields therefore arise not by assumption, but as a consequence of symmetry and geometry. Real plates are finite, so this symmetry breaks near the edges, producing fringe effects. However, when the plate separation is much smaller than their dimensions, a large central region exists where the field is nearly uniform, explaining why the ideal model works so well in practice.
+
 
