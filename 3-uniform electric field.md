@@ -1,4 +1,4 @@
-Long Version
+# Long Version
 
 A uniform electric field is defined as an electric field whose magnitude and direction remain the same at every point in a region of space. The electric field due to a single, infinitely large thin charged sheet comes out to be
 
@@ -26,10 +26,11 @@ Of course, real plates are finite, so perfect symmetry is broken at the edges. N
 Notice that this uniformity is strongest at the exact middle between the plates. As one moves closer to either edge, the balance of contributions from the charge distribution begins to break down. The absence of symmetry near the boundaries causes the field lines to spread out, increasing non-uniformity. In this way, the infinite-plate model does not deny the existence of edge effects; instead, it tells us where the approximation holds and why it works so well in practical setups.
 
 
-Short Version
+# Short Version
 
 The electric field of an infinite charged sheet is independent of distance because two effects exactly balance each other. As we move farther from the sheet, the force due to each infinitesimal patch of charge weakens with distance, but at the same time, a larger area of the sheet contributes significantly to the field. These two effects compensate perfectly due to the symmetry and infinite extent of the sheet, resulting in a constant electric field everywhere.
 
 For two infinitely large, oppositely charged parallel plates, the same symmetry applies, which leads to a uniform electric field and constant acceleration of a charge placed between the plates.
 
 Uniform electric fields therefore arise not by assumption, but as a consequence of symmetry and geometry. Real plates are finite, so this symmetry breaks near the edges, producing fringe effects. However, when the plate separation is much smaller than their dimensions, a large central region exists where the field is nearly uniform, explaining why the ideal model works so well in practice.
+
