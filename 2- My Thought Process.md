@@ -11,7 +11,7 @@ Thinking about it more carefully, I realised that as we move away from the sheet
 
 Once this made sense, the parallel plate capacitor became clearer as well. Even though the distances from the two plates change as one moves between them, the same balancing mechanism operates again. The constancy of the electric field is not accidental — it is enforced by geometry and symmetry.
 
-This naturally led me to think about real plates. They are not infinite. So what breaks? That question led me to edge (fringe) fields — and eventually to the realisation that fringe fields are not an additional complication, but the physical consequence of broken symmetry. When the infinite symmetry disappears, the perfect cancellation disappears with it.
+This naturally led me to think about real plates. They are not infinite. So what changes? That question led me to edge (fringe) fields — and eventually to the realisation that fringe fields are not an additional complication, but the physical consequence of broken symmetry. When the infinite symmetry disappears, the perfect cancellation disappears with it.
 
 At that point, I realised this topic was no longer just about a formula. It was about what uniform really means, why ideal models work so well, and how symmetry influences physical behaviour.
 
