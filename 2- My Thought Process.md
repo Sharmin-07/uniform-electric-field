@@ -13,6 +13,6 @@ Once this made sense, the parallel plate capacitor became clearer as well. Even 
 
 This naturally led me to think about real plates. They are not infinite. So what breaks? That question led me to edge (fringe) fields — and eventually to the realisation that fringe fields are not an additional complication, but the physical consequence of broken symmetry. When the infinite symmetry disappears, the perfect cancellation disappears with it.
 
-At that point, I realised this topic was no longer just about a formula. It was about what uniform really means, why ideal models work so well, and how symmetry quietly governs physical behaviour.
+At that point, I realised this topic was no longer just about a formula. It was about what uniform really means, why ideal models work so well, and how symmetry influences physical behaviour.
 
 This repository is my attempt to organise that understanding — not merely to state results, but to explain why those results make sense. I studied this idea because I wanted to truly feel the physics, not just apply it. Everything here comes from that curiosity.
