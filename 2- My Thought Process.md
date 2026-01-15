@@ -5,7 +5,7 @@ However, on sitting with this idea for some time, this bothered me because in ev
 
 Extending this reasoning to two oppositely charged parallel plates made the idea clearer. At every point between the plates, the contributions from both plates adjust in such a way that the net force on a charge remains constant. This showed me that a uniform electric field is not an assumption or a special case, but a direct consequence of symmetry and infinite geometry.
 
-This naturally led me to think about real plates, wjich led me to edge (fringe) fields — and eventually to the realisation that fringe fields are not an additional complication, but the physical consequence of broken symmetry. When the infinite symmetry disappears, the perfect cancellation disappears with it.
+This naturally led me to think about real plates, which led me to edge (fringe) fields — and eventually to the realisation that fringe fields are not an additional complication, but the physical consequence of broken symmetry. When the infinite symmetry disappears, the perfect cancellation disappears with it.
 
 At that point, I realised this topic was no longer just about a formula. It was about what uniform really means, why ideal models work so well, and how symmetry influences physical behaviour.
 
